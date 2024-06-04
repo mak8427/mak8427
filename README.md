@@ -1,7 +1,7 @@
 ### Hi There
 <p>
-Hi i'm <b>Davide</b> also known with the username Mak, I'm a <b>student of economics</b> who likes to apply the concepts he learns in the university course here in Github!
-I usually code in <b>Python for Machine and Deep learning</b> purposes but for that you need to visit <a href="https://www.kaggle.com/">My kaggle</a>
+Hi i'm <b>Davide</b> also known with the username Mak, I'm a <b>student of applied data science</b>in the university of Göttingen. Welcome to my Github, herei post stuff about ML, economics, finance and other stuff too!
+I usually code in <b>Python</b> but i alao use Julia and Rust. i also have a kaggle <a href="https://www.kaggle.com/">My kaggle</a>
 </p>
 Feel free to check out some of my repo!:smile:
 
