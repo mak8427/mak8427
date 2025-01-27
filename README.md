@@ -4,4 +4,6 @@ Hi i'm <b>Davide</b> also known with the username Mak, I'm a <b>student of appli
 I usually code in <b>Python</b> but i also use Julia and Rust.
 Feel free to check out some of my repos! :smile:
 
+
+
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mak8427/langs)](https://githubtrends.io)
