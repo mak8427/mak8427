@@ -6,4 +6,4 @@ Feel free to check out some of my repos! :smile:
 
 
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mak8427/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mak8427/langs?time_range=one_year&loc_metric=changed&theme=dark)](https://githubtrends.io)
