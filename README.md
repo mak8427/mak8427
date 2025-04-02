@@ -6,4 +6,4 @@ I usually code in <b>Python</b> but i also use Julia and Rust.
 Feel free to check out some of my repos! :smile:
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mak8427/langs?time_range=one_year&loc_metric=changed&theme=dark)](https://githubtrends.io)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mak8427/langs?time_range=one_year&theme=classic)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mak8427/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
