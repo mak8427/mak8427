@@ -7,4 +7,4 @@ Feel free to check out some of my repos! :smile:
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mak8427/langs?time_range=one_year&loc_metric=changed&theme=dark)](https://githubtrends.io)
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mak8427/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
-[![GitHub Streak](https://streak-stats.demolab.com?user=mak8427&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-rho-murex.vercel.app?user=Mak8427&theme=dark)](https://git.io/streak-stats) 
