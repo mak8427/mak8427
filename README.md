@@ -4,7 +4,7 @@ Hi there, I'm Davide, a PhD Candidate AI/DL for Remote Sensing at the University
   
 ## Research & Engineering Focus
 - 🛰 **Geospatial AI & Remote Sensing** – UAV and VHR imagery analysis, canopy structure mapping, orthophoto-based segmentation, scalable geospatial ETL pipelines
-- 🧠 **Foundation Models for EO and CV ** – DINO-style visual backbones, feature extraction, weak-to-strong supervision, decoder-based segmentation for Earth observation
+- 🧠 **Foundation Models for EO and CV** – DINO-style visual backbones, feature extraction, weak-to-strong supervision, decoder-based segmentation for Earth observation
 - 🔎 **Explainable AI for Scientific ML** – Feature attribution, attention diagnostics, layer/channel analysis, and validation against spurious correlations in environmental monitoring
 - ⚙️ **Scientific Data Engineering & HPC** – Reproducible research pipelines, SLURM analytics, distributed inference, performance-aware processing for large geospatial datasets
 
