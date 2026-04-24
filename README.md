@@ -37,17 +37,6 @@ raw pixels → geospatial structure → interpretable models → scientific insi
 * **Scientific engineering**: SLURM, Docker, GPU pipelines, reproducible experiments
 
 ---
-
-## Current direction
-
-I am working on geospatial AI systems that are:
-
-* scalable across large Earth Observation datasets
-* interpretable for scientific users
-* robust under real-world domain shift
-* reproducible, auditable, and useful beyond benchmarks
-
----
 ## Tech stack
 
 <table align="center">
@@ -141,9 +130,6 @@ I am working on geospatial AI systems that are:
 </p>
 
 ## Let’s connect
-
-I’m interested in remote sensing, geospatial foundation models, explainable AI, HPC inference, and reproducible research engineering.
-
 <p align="center">
   <a href="https://www.davidemattioli.net">Visit my portfolio</a>
 </p>
