@@ -20,11 +20,7 @@
 
 I work at the intersection of **remote sensing**, **deep learning**, and **scientific data engineering**.
 
-My focus is building reliable AI systems for environmental monitoring: from UAV and VHR imagery to large-scale geospatial inference, segmentation, canopy analysis, and explainable model diagnostics.
-
-```txt
-raw pixels → geospatial structure → interpretable models → scientific insight
-````
+My focus is building reliable AI systems for environmental monitoring: from UAV and VHR imagery to large-scale geospatial inference, segmentation, canopy analysis, and explainable models.
 
 ---
 
@@ -34,7 +30,7 @@ raw pixels → geospatial structure → interpretable models → scientific insi
 * **Remote sensing ML**: segmentation, canopy mapping, land-cover analysis, large raster inference
 * **Foundation models**: DINO-style backbones, ViTs, feature extraction, weak supervision
 * **Explainable AI**: attribution, attention diagnostics, domain shift, spurious cue analysis
-* **Scientific engineering**: SLURM, Docker, GPU pipelines, reproducible experiments
+* **HPC**: SLURM, Docker, GPU pipelines, reproducible experiments
 
 ---
 ## Tech stack
